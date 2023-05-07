@@ -8,7 +8,7 @@ function fn() {
 
     var config = {
         env: env,
-        baseUrl: 'https://automationexercise.com/api/'
+        baseUrl: 'https://petstore.swagger.io/v2'
     }
     return config;
 }
